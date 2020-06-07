@@ -1,5 +1,5 @@
 const cron = require("node-cron");
-const { getItems } = require("./firebase");
+const { getItems } = require("./firebaseInit");
 const { triggerEmailAlert } = require("./mailer");
 
 const checkDate = () => {

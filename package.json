@@ -1,7 +1,7 @@
 {
-  "name": "pentacron",
+  "name": "cima-cron",
   "version": "1.0.0",
-  "description": "Penta Ocean Crob Job",
+  "description": "Cron Job Scheduler for CIMA",
   "main": "index.js",
   "dependencies": {
     "firebase": "^7.15.0",

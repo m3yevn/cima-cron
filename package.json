@@ -4,9 +4,11 @@
   "description": "Cron Job Scheduler for CIMA",
   "main": "index.js",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "firebase": "^7.15.0",
     "node-cron": "^2.0.3",
-    "nodemailer": "^6.4.8"
+    "nodemailer": "^6.4.8",
+    "uuid": "^8.1.0"
   },
   "devDependencies": {},
   "scripts": {

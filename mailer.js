@@ -18,7 +18,7 @@ const triggerEmailAlert = (id, itemName) => {
     {
       from: "portoka.live@gmail.com",
       to: "amandaayechanmoe@gmail.com",
-      subject: `Penta Ocean : [ALERT] Item ${id} needs update`,
+      subject: `CIMA : [ALERT] Item ${id} needs update`,
       html:
         `<section style="padding:20px;background-color:deepskyblue"><p style="padding:20px;background-color:white">` +
         `Item ID: ${id}<br/>Item Name: ${itemName}<br/>This item has not been updated for 2 days or more<br/>Please help update the status.` +

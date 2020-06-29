@@ -3,7 +3,7 @@
 **Cron Job Scheduler for CIMA**
 
 <p>Version 1.0.0</p>
-<p>by </p>
+<p>by m3yevn and team</p>
 
 <hr/>
 This project is awesome!
